@@ -35,7 +35,7 @@ This repository contains my final year capstone project. In this project I worke
 ## Technologies Used:
 1. Python
 
-    Description: Python serves as the primary programming language for the development of the churn machine learning model, data preprocessing, and analysis.
+    Description: Python serves as the primary programming language for the development of the battery state of health estimation model.
 
 2. Machine Learning Libraries
 a. TensorFlow and Keras
